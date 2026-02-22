@@ -15,7 +15,9 @@ export default getRequestConfig(async () => {
   const localeCookie = cookieStore.get("NEXT_LOCALE")?.value
   const locale = isValidLocale(localeCookie || "") ? localeCookie : defaultLocale
 
-  const messages = (await import(`../messages/${locale}.json`)).default
+  const mainMessages = (await import(`../messages/${locale}.json`)).default
+  const landingMessages = (await import(`../messages/landing/${locale}.json`)).default
+  const messages = { ...mainMessages, landing: landingMessages }
 
   return {
     locale: locale || defaultLocale,

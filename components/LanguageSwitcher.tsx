@@ -24,7 +24,7 @@ export default function LanguageSwitcher() {
   }
 
   return (
-    <div className="flex items-center gap-1 rounded-lg bg-white/10 p-1">
+    <div className="flex items-center gap-1 rounded-lg bg-[#f5f5f5] p-1 border border-[#e5e5e5]">
       {LOCALES.map(({ code, label }) => (
         <button
           key={code}
@@ -32,8 +32,8 @@ export default function LanguageSwitcher() {
           onClick={() => handleChange(code)}
           className={`rounded-md px-2.5 py-1 text-sm font-medium transition-colors ${
             locale === code
-              ? "bg-white/25 text-white"
-              : "text-white/80 hover:bg-white/15 hover:text-white"
+              ? "bg-[#ab2744] text-white"
+              : "text-[#3e3d3f] hover:bg-[#e5e5e5]"
           }`}
         >
           {label}

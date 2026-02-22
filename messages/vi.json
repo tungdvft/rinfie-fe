@@ -1,31 +1,4 @@
 {
-  "landing": {
-    "navBrand": "Hẹn hò",
-    "navHome": "Trang chủ",
-    "navAbout": "Về chúng tôi",
-    "navContact": "Liên hệ",
-    "navGetStarted": "Bắt đầu",
-    "heroTitle": "Tìm Nửa Kia Của Bạn",
-    "heroSubtitle": "Hẹn hò nghiêm túc cho những ai hướng tới mối quan hệ lâu dài. Kết nối có chủ đích.",
-    "heroCta": "Bắt đầu",
-    "heroSecondary": "Tìm hiểu thêm",
-    "featuresTitle": "Vì sao chọn chúng tôi",
-    "feature1Title": "Hướng tới nghiêm túc",
-    "feature1Desc": "Chúng tôi tập trung vào kết nối có ý nghĩa, không phải swipe vô tận.",
-    "feature2Title": "An toàn & Xác minh",
-    "feature2Desc": "An toàn và riêng tư của bạn là ưu tiên hàng đầu.",
-    "feature3Title": "Trò chuyện thật",
-    "feature3Desc": "Ghép đôi và chat với người cùng mong muốn.",
-    "aboutTitle": "Về Chúng Tôi",
-    "aboutIntro": "Chúng tôi xây dựng app này cho những ai sẵn sàng cho điều thật sự.",
-    "aboutMission": "Sứ mệnh của chúng tôi là giúp bạn tìm được người bạn đời phù hợp, trong sự minh bạch và tôn trọng.",
-    "contactTitle": "Liên Hệ",
-    "contactIntro": "Có câu hỏi? Chúng tôi rất muốn lắng nghe bạn.",
-    "contactEmail": "Gửi email",
-    "footerCopy": "© Dating App. Bảo lưu mọi quyền.",
-    "backToHome": "Về trang chủ",
-    "openApp": "Mở ứng dụng"
-  },
   "common": {
     "loading": "Đang tải...",
     "save": "Lưu",
@@ -68,7 +41,8 @@
     "checkingAuth": "Đang kiểm tra đăng nhập...",
     "loadingProfile": "Đang tải hồ sơ...",
     "redirectingLogin": "Đang chuyển đến trang đăng nhập...",
-    "redirectingOnboarding": "Đang chuyển đến thiết lập hồ sơ..."
+    "redirectingOnboarding": "Đang chuyển đến thiết lập hồ sơ...",
+    "redirectingApp": "Đang chuyển đến ứng dụng..."
   },
   "discovery": {
     "findingPeople": "Đang tìm người gần bạn...",

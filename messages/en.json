@@ -1,31 +1,4 @@
 {
-  "landing": {
-    "navBrand": "Dating",
-    "navHome": "Home",
-    "navAbout": "About",
-    "navContact": "Contact",
-    "navGetStarted": "Get Started",
-    "heroTitle": "Find Your Perfect Match",
-    "heroSubtitle": "Serious dating for people looking for a long-term relationship. Connect with intention.",
-    "heroCta": "Get Started",
-    "heroSecondary": "Learn more",
-    "featuresTitle": "Why choose us",
-    "feature1Title": "Serious Intentions",
-    "feature1Desc": "We focus on meaningful connections, not endless swiping.",
-    "feature2Title": "Safe & Verified",
-    "feature2Desc": "Your safety and privacy come first.",
-    "feature3Title": "Real Conversations",
-    "feature3Desc": "Match and chat with people who want the same things.",
-    "aboutTitle": "About Us",
-    "aboutIntro": "We built this app for people who are ready for something real.",
-    "aboutMission": "Our mission is to help you find a partner for a serious relationship, with transparency and respect.",
-    "contactTitle": "Contact",
-    "contactIntro": "Have questions? We'd love to hear from you.",
-    "contactEmail": "Email us",
-    "footerCopy": "© Dating App. All rights reserved.",
-    "backToHome": "Back to Home",
-    "openApp": "Open App"
-  },
   "common": {
     "loading": "Loading...",
     "save": "Save",
@@ -68,7 +41,8 @@
     "checkingAuth": "Checking authentication...",
     "loadingProfile": "Loading your profile...",
     "redirectingLogin": "Redirecting to login...",
-    "redirectingOnboarding": "Redirecting to profile setup..."
+    "redirectingOnboarding": "Redirecting to profile setup...",
+    "redirectingApp": "Redirecting to app..."
   },
   "discovery": {
     "findingPeople": "Finding people near you...",

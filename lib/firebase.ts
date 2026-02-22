@@ -11,6 +11,12 @@ const firebaseConfig = {
   appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
 }
 
+if (typeof window !== "undefined" && !firebaseConfig.apiKey) {
+  console.error(
+    "[Firebase] Missing NEXT_PUBLIC_FIREBASE_API_KEY. Add it to .env.local — see .env.example"
+  )
+}
+
 const app = initializeApp(firebaseConfig)
 export const auth = getAuth(app)
 export const db = getFirestore(app)
