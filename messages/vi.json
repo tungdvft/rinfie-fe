@@ -1,0 +1,115 @@
+{
+  "landing": {
+    "navBrand": "Hẹn hò",
+    "navHome": "Trang chủ",
+    "navAbout": "Về chúng tôi",
+    "navContact": "Liên hệ",
+    "navGetStarted": "Bắt đầu",
+    "heroTitle": "Tìm Nửa Kia Của Bạn",
+    "heroSubtitle": "Hẹn hò nghiêm túc cho những ai hướng tới mối quan hệ lâu dài. Kết nối có chủ đích.",
+    "heroCta": "Bắt đầu",
+    "heroSecondary": "Tìm hiểu thêm",
+    "featuresTitle": "Vì sao chọn chúng tôi",
+    "feature1Title": "Hướng tới nghiêm túc",
+    "feature1Desc": "Chúng tôi tập trung vào kết nối có ý nghĩa, không phải swipe vô tận.",
+    "feature2Title": "An toàn & Xác minh",
+    "feature2Desc": "An toàn và riêng tư của bạn là ưu tiên hàng đầu.",
+    "feature3Title": "Trò chuyện thật",
+    "feature3Desc": "Ghép đôi và chat với người cùng mong muốn.",
+    "aboutTitle": "Về Chúng Tôi",
+    "aboutIntro": "Chúng tôi xây dựng app này cho những ai sẵn sàng cho điều thật sự.",
+    "aboutMission": "Sứ mệnh của chúng tôi là giúp bạn tìm được người bạn đời phù hợp, trong sự minh bạch và tôn trọng.",
+    "contactTitle": "Liên Hệ",
+    "contactIntro": "Có câu hỏi? Chúng tôi rất muốn lắng nghe bạn.",
+    "contactEmail": "Gửi email",
+    "footerCopy": "© Dating App. Bảo lưu mọi quyền.",
+    "backToHome": "Về trang chủ",
+    "openApp": "Mở ứng dụng"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "next": "Tiếp",
+    "back": "Quay lại",
+    "online": "Đang trực tuyến",
+    "boost": "Boost"
+  },
+  "nav": {
+    "discover": "Khám phá",
+    "matches": "Ghép đôi",
+    "messages": "Tin nhắn",
+    "profile": "Cá nhân",
+    "logout": "Đăng xuất"
+  },
+  "login": {
+    "titleLine1": "Tìm",
+    "titleLine2": "Nửa Kia Của Bạn",
+    "subtitle": "Tham gia cùng hàng triệu người tìm kiếm tình yêu, tình bạn và những kết nối ý nghĩa.",
+    "signInWithGoogle": "Đăng nhập bằng Google",
+    "signInSuccess": "Đăng nhập Google thành công.",
+    "signInError": "Đăng nhập thất bại. Vui lòng thử lại.",
+    "statsHappyCouples": "Cặp đôi hạnh phúc",
+    "statsActiveUsers": "Thành viên hoạt động",
+    "statsMatchesDaily": "Ghép đôi mỗi ngày",
+    "feature1Title": "Kết nối thật",
+    "feature1Desc": "Gặp gỡ những người cùng mong muốn với bạn.",
+    "feature2Title": "An toàn & Riêng tư",
+    "feature2Desc": "Dữ liệu của bạn được bảo mật.",
+    "feature3Title": "Ghép đôi thông minh",
+    "feature3Desc": "Chúng tôi giúp bạn tìm đối tác phù hợp.",
+    "joinNow": "Tham gia ngay",
+    "startYourStory": "Bắt đầu câu chuyện tình yêu của bạn hôm nay",
+    "creatingAccount": "Đang tạo tài khoản...",
+    "continueWithGoogle": "Tiếp tục với Google",
+    "securePrivate": "Bảo mật & Riêng tư"
+  },
+  "loader": {
+    "checkingAuth": "Đang kiểm tra đăng nhập...",
+    "loadingProfile": "Đang tải hồ sơ...",
+    "redirectingLogin": "Đang chuyển đến trang đăng nhập...",
+    "redirectingOnboarding": "Đang chuyển đến thiết lập hồ sơ..."
+  },
+  "discovery": {
+    "findingPeople": "Đang tìm người gần bạn...",
+    "noMoreProfiles": "Hết hồ sơ",
+    "noMoreProfilesDesc": "Bạn đã xem hết trong khu vực! Hãy quay lại sau để gặp thêm người mới.",
+    "refresh": "Tải lại",
+    "likesToday": "{used} / {limit} lượt thích hôm nay",
+    "dailyLimitToast": "Bạn đã dùng hết lượt thích hôm nay. Chất lượng hơn số lượng — hẹn gặp lại ngày mai.",
+    "useButtonsHint": "Dùng các nút bên dưới để chọn",
+    "lookingFor": "Đang tìm"
+  },
+  "onboarding": {
+    "stepBasicInfo": "Thông tin cơ bản",
+    "stepBasicInfoDesc": "Cho chúng tôi biết về bạn",
+    "stepInterests": "Sở thích",
+    "stepInterestsDesc": "Bạn yêu thích gì?",
+    "stepPhysical": "Thể chất & Mong muốn",
+    "stepPhysicalDesc": "Sở thích của bạn",
+    "stepLifestyle": "Lối sống",
+    "stepLifestyleDesc": "Bạn sống thế nào",
+    "stepLocation": "Vị trí",
+    "stepLocationDesc": "Bạn ở đâu?",
+    "stepCareer": "Công việc & Giới thiệu",
+    "stepCareerDesc": "Kể thêm về bạn",
+    "stepPhotos": "Ảnh",
+    "stepPhotosDesc": "Cho mọi người thấy con người bạn"
+  },
+  "options": {
+    "lookingFor": {
+      "marriage": "Hôn nhân / Bạn đời",
+      "life-partner": "Lâu dài, hướng tới hôn nhân",
+      "relationship": "Mối quan hệ lâu dài",
+      "casual": "Tình cảm thoải mái",
+      "friendship": "Kết bạn",
+      "not-sure": "Chưa rõ"
+    },
+    "gender": {
+      "male": "Nam",
+      "female": "Nữ",
+      "non-binary": "Phi nhị nguyên",
+      "other": "Khác"
+    }
+  }
+}
