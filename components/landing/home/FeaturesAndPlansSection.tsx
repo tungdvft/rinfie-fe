@@ -66,7 +66,7 @@ export default function FeaturesAndPlansSection() {
         "It's difficult o trust profiles without proper verification.",
       top: "33px",
       left: "0",
-      image: "/landing/image-1268363829@2x.png",
+      image: "/landing/image-1268363829-2x.png",
       imageTop: "-131px",
       imageLeft: "234px",
     },
@@ -76,7 +76,7 @@ export default function FeaturesAndPlansSection() {
         "Many grooms struggle with intermediaries who prioritize speed over sincerity, leaving intentions and expectations unclear.",
       top: "-84px",
       left: "448px",
-      image: "/landing/image-1268363832@2x.png",
+      image: "/landing/image-1268363832-2x.png",
       imageTop: "121px",
       imageLeft: "619px",
     },
@@ -86,7 +86,7 @@ export default function FeaturesAndPlansSection() {
         "Chat goes on, but rarely leads to meaningful real-world progress.",
       top: "271px",
       left: "496px",
-      image: "/landing/image-1268363831@2x.png",
+      image: "/landing/image-1268363831-2x.png",
       imageTop: "471px",
       imageLeft: "378px",
     },
@@ -95,7 +95,7 @@ export default function FeaturesAndPlansSection() {
       description: "Endless matching creates distraction, not connection.",
       top: "407px",
       left: "30px",
-      image: "/landing/image-1268363830@2x.png",
+      image: "/landing/image-1268363830-2x.png",
       imageTop: "245px",
       imageLeft: "25px",
     },
@@ -140,7 +140,7 @@ export default function FeaturesAndPlansSection() {
       title: "Education Verifications",
       description:
         "Career and work background are reviewed to provide transparency and help build trust from the start.",
-      icon: "/landing/solid-status-university@2x.png",
+      icon: "/landing/solid-status-university-2x.png",
       iconTop: "4px",
       iconLeft: "650px",
       top: "100px",
@@ -151,7 +151,7 @@ export default function FeaturesAndPlansSection() {
       title: "Financial Verifications",
       description:
         "Financial information is verified to ensure stability and serious life planning — without exposing sensitive details.",
-      icon: "/landing/solid-general-chart-pie@2x.png",
+      icon: "/landing/solid-general-chart-pie-2x.png",
       iconTop: "215px",
       iconLeft: "1159px",
       top: "px",
@@ -164,7 +164,7 @@ export default function FeaturesAndPlansSection() {
       number: "1",
       title: "Create Your Account",
       description: "Sign up to begin your journey on Rinfie.",
-      icon: "/landing/solid-status-lightbulb@2x.png",
+      icon: "/landing/solid-status-lightbulb-2x.png",
       iconTop: "522px",
       iconLeft: "110px",
       top: "415px",
@@ -210,29 +210,29 @@ export default function FeaturesAndPlansSection() {
       name: "Daniel Kim",
       quote:
         "I was hesitant at first, but the verification system gave me confidence. I met someone serious about marriage, not just chatting.",
-      avatar: "/landing/rectangle@2x.png",
+      avatar: "/landing/rectangle-2x.png",
     },
     {
       name: "Liu Wei",
       quote:
         "What I appreciate most is the transparency. I know who I'm talking to, and that makes all the difference.",
-      avatar: "/landing/rectangle-1@2x.png",
+      avatar: "/landing/rectangle-1-2x.png",
     },
     {
       name: "Chen Hao",
       quote:
         "I never thought I would find someone who shares my values so clearly. Rinfie made it possible.",
-      avatar: "/landing/rectangle-4@2x.png",
+      avatar: "/landing/rectangle-4-2x.png",
     },
     {
       name: "Jae-ho Lee",
       quote: "Serious people only. That's what makes this platform different.",
-      avatar: "/landing/rectangle-4@2x.png",
+      avatar: "/landing/rectangle-4-2x.png",
     },
     {
       name: "Gia Minh",
       quote: "This is not casual dating. It's a clear path toward marriage.",
-      avatar: "/landing/rectangle-4@2x.png",
+      avatar: "/landing/rectangle-4-2x.png",
     },
   ];
 
@@ -345,11 +345,11 @@ export default function FeaturesAndPlansSection() {
 
             <div className="flex w-[993px] items-center justify-between relative flex-[0_0_auto]">
               <div className="inline-flex flex-col items-center justify-center gap-[9.96px] relative flex-[0_0_auto]">
-                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(/landing/image-1268363825-1@2x.png)] bg-cover bg-[50%_50%]">
+                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(/landing/image-1268363825-1-2x.png)] bg-cover bg-[50%_50%]">
                   <img
                     className="absolute top-[27px] left-[30px] w-[105px] h-[111px] aspect-[0.95]"
                     alt="Image"
-                    src="/landing/image-1268363826@2x.png"
+                    src="/landing/image-1268363826-2x.png"
                   />
                 </div>
 
@@ -359,11 +359,11 @@ export default function FeaturesAndPlansSection() {
               </div>
 
               <div className="inline-flex flex-col items-center justify-center gap-[9.96px] relative flex-[0_0_auto]">
-                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(/landing/image-1268363825-1@2x.png)] bg-cover bg-[50%_50%]">
+                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(/landing/image-1268363825-1-2x.png)] bg-cover bg-[50%_50%]">
                   <img
                     className="absolute top-[27px] left-[30px] w-[105px] h-[111px] aspect-[0.95]"
                     alt="Image"
-                    src="/landing/image-1268363826-1@2x.png"
+                    src="/landing/image-1268363826-1-2x.png"
                   />
                 </div>
 
@@ -397,7 +397,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="relative w-6 h-6 aspect-[1] object-cover"
                       alt="Image"
-                      src="/landing/image-1268363827-4@2x.png"
+                      src="/landing/image-1268363827-4-2x.png"
                     />
 
                     <div className="relative w-fit [font-family:'SF_Pro-Bold',Helvetica] font-bold text-[#ab2744] text-base tracking-[0] leading-[normal] whitespace-nowrap">
@@ -464,7 +464,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[-5px] left-[172px] w-[372px] h-[371px]"
               alt="Mask group"
-              src="/landing/mask-group-1@2x.png"
+              src="/landing/mask-group-1-2x.png"
             />
 
             {groomConcerns.map((concern, index) => (
@@ -529,25 +529,25 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[94px] -left-2.5 w-[194px] h-[194px] aspect-[1] object-cover"
               alt="Image"
-              src="/landing/image-1268363829-1@2x.png"
+              src="/landing/image-1268363829-1-2x.png"
             />
 
             <img
               className="absolute top-[383px] left-[523px] w-[180px] h-48 aspect-[0.84]"
               alt="Image"
-              src="/landing/image-1268363830-1@2x.png"
+              src="/landing/image-1268363830-1-2x.png"
             />
 
             <img
               className="absolute top-[87px] left-[545px] w-[78px] h-20"
               alt="Image"
-              src="/landing/image-1268363831-1@2x.png"
+              src="/landing/image-1268363831-1-2x.png"
             />
 
             <img
               className="absolute w-[407px] h-[319px] top-[41px] left-[167px]"
               alt="Group"
-              src="/landing/group-1308@2x.png"
+              src="/landing/group-1308-2x.png"
             />
           </div>
         </div>
@@ -663,43 +663,43 @@ export default function FeaturesAndPlansSection() {
           <img
             className="absolute top-[360px] left-[255px] w-[237px] h-[245px] aspect-[0.76]"
             alt="Image"
-            src="/landing/image-1268363841@2x.png"
+            src="/landing/image-1268363841-2x.png"
           />
 
           <img
             className="absolute top-px left-[934px] w-[258px] h-[258px] aspect-[1] object-cover"
             alt="Image"
-            src="/landing/image-1268363842@2x.png"
+            src="/landing/image-1268363842-2x.png"
           />
 
           <img
             className="absolute top-[586px] left-[674px] w-[244px] h-[19px] aspect-[1] object-cover"
             alt="Image"
-            src="/landing/image-1268363843@2x.png"
+            src="/landing/image-1268363843-2x.png"
           />
 
           <img
             className="absolute top-8 left-0 w-[374px] h-[374px] aspect-[1] object-cover"
             alt="Image"
-            src="/landing/image-1268363844@2x.png"
+            src="/landing/image-1268363844-2x.png"
           />
 
           <img
             className="absolute top-8 left-[1084px] w-[476px] h-[476px] aspect-[1] object-cover"
             alt="Image"
-            src="/landing/image-1268363845@2x.png"
+            src="/landing/image-1268363845-2x.png"
           />
 
           <img
             className="absolute top-[378px] left-[985px] w-[261px] h-[227px] aspect-[1] object-cover"
             alt="Image"
-            src="/landing/image-1268363846@2x.png"
+            src="/landing/image-1268363846-2x.png"
           />
 
           <img
             className="absolute top-[101px] left-[374px] w-[159px] h-[159px] aspect-[1] object-cover"
             alt="Image"
-            src="/landing/image-1268363847@2x.png"
+            src="/landing/image-1268363847-2x.png"
           />
         </div>
       </div>
@@ -798,7 +798,7 @@ export default function FeaturesAndPlansSection() {
                       <img
                         className="relative w-9 h-9 aspect-[1] object-cover"
                         alt="Image"
-                        src="/landing/image-1268363834-13@2x.png"
+                        src="/landing/image-1268363834-13-2x.png"
                       />
 
                       <p className="relative flex items-center justify-center flex-1 mt-[-1.00px] [font-family:'Poppins',Helvetica] font-normal text-transparent text-base tracking-[0] leading-[26px]">
@@ -946,7 +946,7 @@ export default function FeaturesAndPlansSection() {
                       <img
                         className="relative w-9 h-9 aspect-[1] object-cover"
                         alt="Image"
-                        src="/landing/image-1268363834-13@2x.png"
+                        src="/landing/image-1268363834-13-2x.png"
                       />
 
                       <p className="relative flex items-center justify-center flex-1 mt-[-1.00px] [font-family:'Poppins',Helvetica] font-normal text-transparent text-base tracking-[0] leading-[26px]">
@@ -1093,7 +1093,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="relative w-9 h-9 aspect-[1] object-cover"
                       alt="Image"
-                      src="/landing/image-1268363834-13@2x.png"
+                      src="/landing/image-1268363834-13-2x.png"
                     />
 
                     <p className="relative flex items-center justify-center flex-1 mt-[-1.00px] [font-family:'Poppins',Helvetica] font-normal text-transparent text-base tracking-[0] leading-[26px]">
@@ -1200,7 +1200,7 @@ export default function FeaturesAndPlansSection() {
           <img
             className="absolute top-16 left-[152px] w-[498px] h-[394px]"
             alt="Mask group"
-            src="/landing/mask-group-4@2x.png"
+            src="/landing/mask-group-4-2x.png"
           />
         </div>
       </div>
