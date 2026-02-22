@@ -17,7 +17,7 @@ export default function NavigationHeaderSection() {
         <img
           className="relative w-10 h-10 aspect-[1]"
           alt="Rinfie Logo"
-          src="https://c.animaapp.com/wDnFaDjy/img/logo.svg"
+          src="/landing/logo.svg"
         />
         <span className="font-bold text-[#ab2744] text-2xl tracking-[0] leading-[normal]">
           {t("navBrand")}

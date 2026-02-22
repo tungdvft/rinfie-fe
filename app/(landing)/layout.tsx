@@ -12,12 +12,12 @@ export default function LandingLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className={`${poppins.className} min-h-screen bg-[#fdfdfd] relative`}>
+    <div className={`${poppins.className} min-h-screen bg-[#fdfdfd] relative overflow-x-hidden`}>
       <img
         className="h-full top-0 left-0 object-cover absolute w-full pointer-events-none"
         alt=""
         aria-hidden
-        src="https://c.animaapp.com/wDnFaDjy/img/bg.svg"
+        src="/landing/bg.svg"
       />
       <div className="relative z-0 flex flex-col min-h-screen">
         <NavigationHeaderSection />

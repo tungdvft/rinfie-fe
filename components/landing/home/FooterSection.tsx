@@ -63,13 +63,13 @@ export default function FooterSection() {
               </div>
               <div className="flex items-center gap-4">
                 <a href="#" className="relative w-6 h-6 hover:opacity-80" aria-label="Facebook">
-                  <img src="https://c.animaapp.com/wDnFaDjy/img/social-icon-facebook.svg" alt="" className="w-full h-full" />
+                  <img src="/landing/social-icon-facebook.svg" alt="" className="w-full h-full" />
                 </a>
                 <a href="#" className="relative w-6 h-6 hover:opacity-80" aria-label="Twitter">
-                  <img src="https://c.animaapp.com/wDnFaDjy/img/social-icon-twitter.svg" alt="" className="w-full h-full" />
+                  <img src="/landing/social-icon-twitter.svg" alt="" className="w-full h-full" />
                 </a>
                 <a href="#" className="relative w-6 h-6 hover:opacity-80" aria-label="Instagram">
-                  <img src="https://c.animaapp.com/wDnFaDjy/img/social-icon-instagram.svg" alt="" className="w-full h-full" />
+                  <img src="/landing/social-icon-instagram.svg" alt="" className="w-full h-full" />
                 </a>
               </div>
             </div>

@@ -22,7 +22,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning={true}>
-      <body className={inter.className}>
+      <body className={`${inter.className} overflow-x-hidden`}>
         <NextIntlClientProvider locale={locale} messages={messages}>
           {children}
           <Toaster />

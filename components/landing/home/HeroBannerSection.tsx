@@ -47,7 +47,7 @@ export default function HeroBannerSection() {
         <img
           className="absolute w-full h-full object-cover"
           alt="Hero Banner"
-          src="https://c.animaapp.com/wDnFaDjy/img/hero-banner-placeholder.png"
+          src="/landing/hero-banner-placeholder.png"
         />
       </div>
     </section>

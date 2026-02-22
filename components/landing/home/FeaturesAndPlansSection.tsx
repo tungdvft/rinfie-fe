@@ -10,8 +10,8 @@ export default function FeaturesAndPlansSection() {
       otherAppPercentage: "80 %",
       rinfieWidth: "435px",
       otherAppWidth: "351px",
-      rinfieImage: "https://c.animaapp.com/wDnFaDjy/img/union-1.svg",
-      otherAppImage: "https://c.animaapp.com/wDnFaDjy/img/union-2.svg",
+      rinfieImage: "/landing/union-1.svg",
+      otherAppImage: "/landing/union-2.svg",
     },
     {
       title: "Smart Translation Bridge",
@@ -21,8 +21,8 @@ export default function FeaturesAndPlansSection() {
       otherAppPercentage: "40 %",
       rinfieWidth: "435px",
       otherAppWidth: "183px",
-      rinfieImage: "https://c.animaapp.com/wDnFaDjy/img/union-3.svg",
-      otherAppImage: "https://c.animaapp.com/wDnFaDjy/img/union-4.svg",
+      rinfieImage: "/landing/union-3.svg",
+      otherAppImage: "/landing/union-4.svg",
     },
     {
       title: "Engaged Mode",
@@ -32,8 +32,8 @@ export default function FeaturesAndPlansSection() {
       otherAppPercentage: "20 %",
       rinfieWidth: "435px",
       otherAppWidth: "99px",
-      rinfieImage: "https://c.animaapp.com/wDnFaDjy/img/union-5.svg",
-      otherAppImage: "https://c.animaapp.com/wDnFaDjy/img/union-6.svg",
+      rinfieImage: "/landing/union-5.svg",
+      otherAppImage: "/landing/union-6.svg",
     },
     {
       title: "From Match to Meeting",
@@ -43,8 +43,8 @@ export default function FeaturesAndPlansSection() {
       otherAppPercentage: "80 %",
       rinfieWidth: "435px",
       otherAppWidth: "351px",
-      rinfieImage: "https://c.animaapp.com/wDnFaDjy/img/union-7.svg",
-      otherAppImage: "https://c.animaapp.com/wDnFaDjy/img/union-8.svg",
+      rinfieImage: "/landing/union-7.svg",
+      otherAppImage: "/landing/union-8.svg",
     },
     {
       title: "Legal & Cultural Support",
@@ -54,8 +54,8 @@ export default function FeaturesAndPlansSection() {
       otherAppPercentage: "40 %",
       rinfieWidth: "435px",
       otherAppWidth: "183px",
-      rinfieImage: "https://c.animaapp.com/wDnFaDjy/img/union-9.svg",
-      otherAppImage: "https://c.animaapp.com/wDnFaDjy/img/union-10.svg",
+      rinfieImage: "/landing/union-9.svg",
+      otherAppImage: "/landing/union-10.svg",
     },
   ];
 
@@ -66,7 +66,7 @@ export default function FeaturesAndPlansSection() {
         "It's difficult o trust profiles without proper verification.",
       top: "33px",
       left: "0",
-      image: "https://c.animaapp.com/wDnFaDjy/img/image-1268363829@2x.png",
+      image: "/landing/image-1268363829@2x.png",
       imageTop: "-131px",
       imageLeft: "234px",
     },
@@ -76,7 +76,7 @@ export default function FeaturesAndPlansSection() {
         "Many grooms struggle with intermediaries who prioritize speed over sincerity, leaving intentions and expectations unclear.",
       top: "-84px",
       left: "448px",
-      image: "https://c.animaapp.com/wDnFaDjy/img/image-1268363832@2x.png",
+      image: "/landing/image-1268363832@2x.png",
       imageTop: "121px",
       imageLeft: "619px",
     },
@@ -86,7 +86,7 @@ export default function FeaturesAndPlansSection() {
         "Chat goes on, but rarely leads to meaningful real-world progress.",
       top: "271px",
       left: "496px",
-      image: "https://c.animaapp.com/wDnFaDjy/img/image-1268363831@2x.png",
+      image: "/landing/image-1268363831@2x.png",
       imageTop: "471px",
       imageLeft: "378px",
     },
@@ -95,7 +95,7 @@ export default function FeaturesAndPlansSection() {
       description: "Endless matching creates distraction, not connection.",
       top: "407px",
       left: "30px",
-      image: "https://c.animaapp.com/wDnFaDjy/img/image-1268363830@2x.png",
+      image: "/landing/image-1268363830@2x.png",
       imageTop: "245px",
       imageLeft: "25px",
     },
@@ -129,7 +129,7 @@ export default function FeaturesAndPlansSection() {
       title: "Identity Verifications",
       description:
         "We verify real identities to ensure every profile belongs to a real person — no fake accounts, no uncertainty.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-communication-user.svg",
+      icon: "/landing/solid-communication-user.svg",
       iconTop: "232px",
       iconLeft: "184px",
       top: "px",
@@ -140,7 +140,7 @@ export default function FeaturesAndPlansSection() {
       title: "Education Verifications",
       description:
         "Career and work background are reviewed to provide transparency and help build trust from the start.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-status-university@2x.png",
+      icon: "/landing/solid-status-university@2x.png",
       iconTop: "4px",
       iconLeft: "650px",
       top: "100px",
@@ -151,7 +151,7 @@ export default function FeaturesAndPlansSection() {
       title: "Financial Verifications",
       description:
         "Financial information is verified to ensure stability and serious life planning — without exposing sensitive details.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-general-chart-pie@2x.png",
+      icon: "/landing/solid-general-chart-pie@2x.png",
       iconTop: "215px",
       iconLeft: "1159px",
       top: "px",
@@ -164,7 +164,7 @@ export default function FeaturesAndPlansSection() {
       number: "1",
       title: "Create Your Account",
       description: "Sign up to begin your journey on Rinfie.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-status-lightbulb@2x.png",
+      icon: "/landing/solid-status-lightbulb@2x.png",
       iconTop: "522px",
       iconLeft: "110px",
       top: "415px",
@@ -175,7 +175,7 @@ export default function FeaturesAndPlansSection() {
       title: "Complete Rinfie's Verification Process",
       description:
         "Follow our step-by-step verification to build trust and unlock meaningful connections.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-status-lightbulb-3.svg",
+      icon: "/landing/solid-status-lightbulb-3.svg",
       iconTop: "436px",
       iconLeft: "551px",
       top: "266px",
@@ -186,7 +186,7 @@ export default function FeaturesAndPlansSection() {
       title: "Connect with the Community Based on Your Criteria",
       description:
         "Get matched with profiles that align with your values, preferences, and intentions.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-status-lightbulb-3.svg",
+      icon: "/landing/solid-status-lightbulb-3.svg",
       iconTop: "343px",
       iconLeft: "1115px",
       top: "187px",
@@ -197,7 +197,7 @@ export default function FeaturesAndPlansSection() {
       title: "Meet in Person at Our Curated Events",
       description:
         "Take the next step and meet in real life through Rinfie-hosted events.",
-      icon: "https://c.animaapp.com/wDnFaDjy/img/solid-status-lightbulb-3.svg",
+      icon: "/landing/solid-status-lightbulb-3.svg",
       iconTop: "129px",
       iconLeft: "1354px",
       top: "0",
@@ -210,53 +210,53 @@ export default function FeaturesAndPlansSection() {
       name: "Daniel Kim",
       quote:
         "I was hesitant at first, but the verification system gave me confidence. I met someone serious about marriage, not just chatting.",
-      avatar: "https://c.animaapp.com/wDnFaDjy/img/rectangle@2x.png",
+      avatar: "/landing/rectangle@2x.png",
     },
     {
       name: "Liu Wei",
       quote:
         "What I appreciate most is the transparency. I know who I'm talking to, and that makes all the difference.",
-      avatar: "https://c.animaapp.com/wDnFaDjy/img/rectangle-1@2x.png",
+      avatar: "/landing/rectangle-1@2x.png",
     },
     {
       name: "Chen Hao",
       quote:
         "I never thought I would find someone who shares my values so clearly. Rinfie made it possible.",
-      avatar: "https://c.animaapp.com/wDnFaDjy/img/rectangle-4@2x.png",
+      avatar: "/landing/rectangle-4@2x.png",
     },
     {
       name: "Jae-ho Lee",
       quote: "Serious people only. That's what makes this platform different.",
-      avatar: "https://c.animaapp.com/wDnFaDjy/img/rectangle-4@2x.png",
+      avatar: "/landing/rectangle-4@2x.png",
     },
     {
       name: "Gia Minh",
       quote: "This is not casual dating. It's a clear path toward marriage.",
-      avatar: "https://c.animaapp.com/wDnFaDjy/img/rectangle-4@2x.png",
+      avatar: "/landing/rectangle-4@2x.png",
     },
   ];
 
   const stats = [
     {
-      icon: "https://c.animaapp.com/wDnFaDjy/img/frame-2122074392.svg",
+      icon: "/landing/frame-2122074392.svg",
       title: "15k+ Verified Profiles",
       description:
         "Thousands of serious members trust Rinfie to find meaningful, marriage-focused relationships across borders.",
     },
     {
-      icon: "https://c.animaapp.com/wDnFaDjy/img/frame-2122074392-1.svg",
+      icon: "/landing/frame-2122074392-1.svg",
       title: "1,000+ Destiny Moments Begun",
       description:
         "Every connection starts with intention — bringing two hearts closer across cultures.",
     },
     {
-      icon: "https://c.animaapp.com/wDnFaDjy/img/frame-2122074392-2.svg",
+      icon: "/landing/frame-2122074392-2.svg",
       title: "10,000+ Cross-cultural Conversations",
       description:
         "Building understanding, respect, and long-term commitment between two worlds.",
     },
     {
-      icon: "https://c.animaapp.com/wDnFaDjy/img/frame-2122074392-3.svg",
+      icon: "/landing/frame-2122074392-3.svg",
       title: "100% Id Verified Members",
       description:
         "Every approved profile completes identity verification to ensure authenticity and serious intentions.",
@@ -345,11 +345,11 @@ export default function FeaturesAndPlansSection() {
 
             <div className="flex w-[993px] items-center justify-between relative flex-[0_0_auto]">
               <div className="inline-flex flex-col items-center justify-center gap-[9.96px] relative flex-[0_0_auto]">
-                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(https://c.animaapp.com/wDnFaDjy/img/image-1268363825-1@2x.png)] bg-cover bg-[50%_50%]">
+                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(/landing/image-1268363825-1@2x.png)] bg-cover bg-[50%_50%]">
                   <img
                     className="absolute top-[27px] left-[30px] w-[105px] h-[111px] aspect-[0.95]"
                     alt="Image"
-                    src="https://c.animaapp.com/wDnFaDjy/img/image-1268363826@2x.png"
+                    src="/landing/image-1268363826@2x.png"
                   />
                 </div>
 
@@ -359,11 +359,11 @@ export default function FeaturesAndPlansSection() {
               </div>
 
               <div className="inline-flex flex-col items-center justify-center gap-[9.96px] relative flex-[0_0_auto]">
-                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(https://c.animaapp.com/wDnFaDjy/img/image-1268363825-1@2x.png)] bg-cover bg-[50%_50%]">
+                <div className="relative w-[165.98px] h-[165.98px] aspect-[1] bg-[url(/landing/image-1268363825-1@2x.png)] bg-cover bg-[50%_50%]">
                   <img
                     className="absolute top-[27px] left-[30px] w-[105px] h-[111px] aspect-[0.95]"
                     alt="Image"
-                    src="https://c.animaapp.com/wDnFaDjy/img/image-1268363826-1@2x.png"
+                    src="/landing/image-1268363826-1@2x.png"
                   />
                 </div>
 
@@ -397,7 +397,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="relative w-6 h-6 aspect-[1] object-cover"
                       alt="Image"
-                      src="https://c.animaapp.com/wDnFaDjy/img/image-1268363827-4@2x.png"
+                      src="/landing/image-1268363827-4@2x.png"
                     />
 
                     <div className="relative w-fit [font-family:'SF_Pro-Bold',Helvetica] font-bold text-[#ab2744] text-base tracking-[0] leading-[normal] whitespace-nowrap">
@@ -434,13 +434,13 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[198px] left-[235px] w-[238px] h-[193px] aspect-[1.23]"
               alt="Union"
-              src="https://c.animaapp.com/wDnFaDjy/img/union-11.svg"
+              src="/landing/union-11.svg"
             />
 
             <img
               className="absolute top-[-83px] -left-7 w-[764px] h-[764px]"
               alt="Group"
-              src="https://c.animaapp.com/wDnFaDjy/img/group-1307.png"
+              src="/landing/group-1307.png"
             />
 
             {groomConcerns.map((concern, index) => (
@@ -464,7 +464,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[-5px] left-[172px] w-[372px] h-[371px]"
               alt="Mask group"
-              src="https://c.animaapp.com/wDnFaDjy/img/mask-group-1@2x.png"
+              src="/landing/mask-group-1@2x.png"
             />
 
             {groomConcerns.map((concern, index) => (
@@ -505,7 +505,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[-83px] -left-7 w-[764px] h-[764px]"
               alt="Group"
-              src="https://c.animaapp.com/wDnFaDjy/img/group-1307-1.png"
+              src="/landing/group-1307-1.png"
             />
 
             {brideConcerns.map((concern, index) => (
@@ -529,25 +529,25 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[94px] -left-2.5 w-[194px] h-[194px] aspect-[1] object-cover"
               alt="Image"
-              src="https://c.animaapp.com/wDnFaDjy/img/image-1268363829-1@2x.png"
+              src="/landing/image-1268363829-1@2x.png"
             />
 
             <img
               className="absolute top-[383px] left-[523px] w-[180px] h-48 aspect-[0.84]"
               alt="Image"
-              src="https://c.animaapp.com/wDnFaDjy/img/image-1268363830-1@2x.png"
+              src="/landing/image-1268363830-1@2x.png"
             />
 
             <img
               className="absolute top-[87px] left-[545px] w-[78px] h-20"
               alt="Image"
-              src="https://c.animaapp.com/wDnFaDjy/img/image-1268363831-1@2x.png"
+              src="/landing/image-1268363831-1@2x.png"
             />
 
             <img
               className="absolute w-[407px] h-[319px] top-[41px] left-[167px]"
               alt="Group"
-              src="https://c.animaapp.com/wDnFaDjy/img/group-1308@2x.png"
+              src="/landing/group-1308@2x.png"
             />
           </div>
         </div>
@@ -584,13 +584,13 @@ export default function FeaturesAndPlansSection() {
           <img
             className="absolute top-[78px] left-[52px] w-[1353px] h-[197px]"
             alt="Vector"
-            src="https://c.animaapp.com/wDnFaDjy/img/vector-3.svg"
+            src="/landing/vector-3.svg"
           />
 
           <img
             className="absolute top-[42px] left-[52px] w-[1354px] h-[266px]"
             alt="Vector"
-            src="https://c.animaapp.com/wDnFaDjy/img/vector-5.svg"
+            src="/landing/vector-5.svg"
           />
 
           {verificationSteps.map((step, index) => (
@@ -602,7 +602,7 @@ export default function FeaturesAndPlansSection() {
               <img
                 className="absolute top-[-15px] -left-2 w-36 h-[158px] aspect-[1]"
                 alt="Polygon"
-                src={`https://c.animaapp.com/wDnFaDjy/img/polygon-2${index > 0 ? `-${index}` : ""}.svg`}
+                src={`/landing/polygon-2${index > 0 ? `-${index}` : ""}.svg`}
               />
 
               <img
@@ -656,55 +656,55 @@ export default function FeaturesAndPlansSection() {
         <img
           className="absolute top-[247px] left-[535px] w-[943px] h-[553px] aspect-[1] object-cover"
           alt="Element"
-          src="https://c.animaapp.com/wDnFaDjy/img/-----------------------194491479-1.png"
+          src="/landing/image-194491479-1.png"
         />
 
         <div className="absolute top-[195px] left-[232px] w-[1560px] h-[830px]">
           <img
             className="absolute top-[360px] left-[255px] w-[237px] h-[245px] aspect-[0.76]"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363841@2x.png"
+            src="/landing/image-1268363841@2x.png"
           />
 
           <img
             className="absolute top-px left-[934px] w-[258px] h-[258px] aspect-[1] object-cover"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363842@2x.png"
+            src="/landing/image-1268363842@2x.png"
           />
 
           <img
             className="absolute top-[586px] left-[674px] w-[244px] h-[19px] aspect-[1] object-cover"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363843@2x.png"
+            src="/landing/image-1268363843@2x.png"
           />
 
           <img
             className="absolute top-8 left-0 w-[374px] h-[374px] aspect-[1] object-cover"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363844@2x.png"
+            src="/landing/image-1268363844@2x.png"
           />
 
           <img
             className="absolute top-8 left-[1084px] w-[476px] h-[476px] aspect-[1] object-cover"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363845@2x.png"
+            src="/landing/image-1268363845@2x.png"
           />
 
           <img
             className="absolute top-[378px] left-[985px] w-[261px] h-[227px] aspect-[1] object-cover"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363846@2x.png"
+            src="/landing/image-1268363846@2x.png"
           />
 
           <img
             className="absolute top-[101px] left-[374px] w-[159px] h-[159px] aspect-[1] object-cover"
             alt="Image"
-            src="https://c.animaapp.com/wDnFaDjy/img/image-1268363847@2x.png"
+            src="/landing/image-1268363847@2x.png"
           />
         </div>
       </div>
 
-      <div id="pricing" className="flex w-[1920px] items-start flex-col relative flex-[0_0_auto]">
+      <div id="pricing" className="flex w-full max-w-[1920px] mx-auto items-start flex-col relative flex-[0_0_auto] overflow-hidden">
         <div className="h-[calc(100%_-_1px)] top-0 left-0 overflow-hidden bg-[linear-gradient(0deg,rgba(171,39,68,1)_0%,rgba(108,25,43,1)_100%)] absolute w-full">
           <div className="relative top-[-502px] left-[-117px] w-[2046px] h-[2588px] rotate-[-90.00deg] mix-blend-lighten">
             <div className="absolute top-[1487px] left-[815px] w-[1041px] h-[1101px] bg-[#ef7e87] rounded-[520.5px/550.5px] blur-[349.56px] opacity-50" />
@@ -715,37 +715,39 @@ export default function FeaturesAndPlansSection() {
           </div>
         </div>
 
-        <div className="h-[976px] justify-center pt-14 pb-6 px-60 flex flex-col items-center gap-4 relative self-stretch w-full">
+        <div className="min-h-[976px] justify-center pt-14 pb-6 px-4 sm:px-8 md:px-12 lg:px-16 xl:px-24 flex flex-col items-center gap-4 relative self-stretch w-full max-w-[1920px] mx-auto">
           <img
-            className="absolute top-[calc(50.00%_-_455px)] right-[-213px] w-[454px] h-[1000px]"
-            alt="Mask group"
-            src="https://c.animaapp.com/wDnFaDjy/img/mask-group-2.png"
+            className="absolute top-[calc(50.00%_-_455px)] right-[-213px] w-[454px] h-[1000px] pointer-events-none select-none"
+            alt=""
+            aria-hidden
+            src="/landing/mask-group-2.png"
           />
 
           <img
-            className="absolute top-56 left-0 w-[421px] h-[696px]"
-            alt="Mask group"
-            src="https://c.animaapp.com/wDnFaDjy/img/mask-group-3.png"
+            className="absolute top-56 left-0 w-[421px] h-[696px] pointer-events-none select-none"
+            alt=""
+            aria-hidden
+            src="/landing/mask-group-3.png"
           />
 
-          <div className="h-[88px] relative w-[809px]">
-            <div className="flex flex-col w-[809px] items-center relative">
-              <p className="relative flex items-center justify-center w-fit mt-[-1.00px] [font-family:'Poppins',Helvetica] font-bold text-[#fdfdfd] text-4xl text-center tracking-[0] leading-[46px] whitespace-nowrap">
+          <div className="h-[88px] relative w-full max-w-[809px] px-2">
+            <div className="flex flex-col w-full items-center relative">
+              <p className="relative flex items-center justify-center w-full mt-[-1.00px] font-bold text-[#fdfdfd] text-2xl sm:text-3xl md:text-4xl text-center tracking-[0] leading-tight">
                 PRICING &amp; PLANS FOR GENTLEMEN
               </p>
 
-              <p className="relative flex items-center justify-center self-stretch [font-family:'Poppins',Helvetica] font-normal text-[#fdfdfd] text-sm text-center tracking-[0] leading-[normal]">
+              <p className="relative flex items-center justify-center self-stretch font-normal text-[#fdfdfd] text-sm text-center tracking-[0] leading-snug">
                 Choose The Level Of Access That Matches Your Intention And
                 Journey. All Plans Are Designed To Support Respectful, Serious,
-                And Transparent Connections.no Hidden Intermediaries. No Unclear
+                And Transparent Connections. No Hidden Intermediaries. No Unclear
                 Intentions.
               </p>
             </div>
           </div>
 
-          <div className="flex items-center justify-between px-10 py-0 relative self-stretch w-full flex-[0_0_auto]">
-            <div className="inline-flex items-center justify-between p-4 self-stretch bg-[#ffffff66] rounded-3xl border-[none] shadow-[4px_4px_20px_#891f37] backdrop-blur-[10px] backdrop-brightness-[100%] [-webkit-backdrop-filter:blur(10px)_brightness(100%)] flex-col relative flex-[0_0_auto] before:content-[''] before:absolute before:inset-0 before:p-px before:rounded-3xl before:[background:linear-gradient(180deg,rgba(181,181,181,1)_0%,rgba(199,199,199,1)_100%)] before:[-webkit-mask:linear-gradient(#fff_0_0)_content-box,linear-gradient(#fff_0_0)] before:[-webkit-mask-composite:xor] before:[mask-composite:exclude] before:z-[1] before:pointer-events-none">
-              <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch">
+          <div className="flex flex-col lg:flex-row items-stretch justify-center gap-6 px-4 py-0 relative w-full max-w-[1400px] mx-auto">
+            <div className="inline-flex items-start justify-between p-4 min-w-0 flex-1 max-w-[420px] bg-[#ffffff66] rounded-3xl border border-[rgba(199,199,199,0.5)] shadow-[4px_4px_20px_#891f37] backdrop-blur-[10px] flex-col relative">
+              <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch z-10">
                 <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
                   <div className="relative flex items-center justify-center self-stretch mt-[-1.00px] bg-[linear-gradient(180deg,rgba(223,7,76,1)_0%,rgba(152,7,29,1)_100%)] [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Poppins',Helvetica] font-black text-transparent text-2xl tracking-[1.20px] leading-[26px]">
                     Rinfie Plus +
@@ -782,9 +784,9 @@ export default function FeaturesAndPlansSection() {
                 </button>
 
                 <img
-                  className="w-[400px] h-px relative object-cover"
+                  className="w-full max-w-[400px] h-px relative object-cover"
                   alt="Line"
-                  src="https://c.animaapp.com/wDnFaDjy/img/line-1-2.svg"
+                  src="/landing/line-1-2.svg"
                 />
 
                 <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch">
@@ -796,7 +798,7 @@ export default function FeaturesAndPlansSection() {
                       <img
                         className="relative w-9 h-9 aspect-[1] object-cover"
                         alt="Image"
-                        src="https://c.animaapp.com/wDnFaDjy/img/image-1268363834-13@2x.png"
+                        src="/landing/image-1268363834-13@2x.png"
                       />
 
                       <p className="relative flex items-center justify-center flex-1 mt-[-1.00px] [font-family:'Poppins',Helvetica] font-normal text-transparent text-base tracking-[0] leading-[26px]">
@@ -819,9 +821,9 @@ export default function FeaturesAndPlansSection() {
                 </div>
 
                 <img
-                  className="w-[400px] h-px relative object-cover"
+                  className="w-full max-w-[400px] h-px relative object-cover"
                   alt="Line"
-                  src="https://c.animaapp.com/wDnFaDjy/img/line-1-2.svg"
+                  src="/landing/line-1-2.svg"
                 />
               </div>
 
@@ -839,7 +841,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="w-px h-[31px] relative object-cover"
                       alt="Line"
-                      src="https://c.animaapp.com/wDnFaDjy/img/line-3-1.svg"
+                      src="/landing/line-3-1.svg"
                     />
 
                     <div className="bg-[linear-gradient(0deg,rgba(88,2,2,1)_0%,rgba(198,0,112,1)_100%)] relative flex items-center justify-center w-fit [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Inter',Helvetica] font-bold text-transparent text-2xl tracking-[0] leading-[normal]">
@@ -857,7 +859,7 @@ export default function FeaturesAndPlansSection() {
                       <img
                         className="relative w-4 h-4 aspect-[1]"
                         alt="Badget solid"
-                        src="https://c.animaapp.com/wDnFaDjy/img/badget-solid-1.svg"
+                        src="/landing/badget-solid-1.svg"
                       />
 
                       <div className="relative flex items-center justify-center w-fit mt-[-1.00px] font-small-semibold font-[number:var(--small-semibold-font-weight)] text-[#000000] text-[length:var(--small-semibold-font-size)] text-center tracking-[var(--small-semibold-letter-spacing)] leading-[var(--small-semibold-line-height)] whitespace-nowrap [font-style:var(--small-semibold-font-style)]">
@@ -874,7 +876,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="w-px h-[31px] relative object-cover"
                       alt="Line"
-                      src="https://c.animaapp.com/wDnFaDjy/img/line-3-1.svg"
+                      src="/landing/line-3-1.svg"
                     />
 
                     <div className="bg-[linear-gradient(0deg,rgba(88,2,2,1)_0%,rgba(198,0,112,1)_100%)] relative flex items-center justify-center w-fit [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Inter',Helvetica] font-bold text-transparent text-2xl tracking-[0] leading-[normal]">
@@ -892,8 +894,8 @@ export default function FeaturesAndPlansSection() {
               </div>
             </div>
 
-            <div className="bg-[#eb0ce44c] inline-flex flex-col items-center gap-4 p-4 relative flex-[0_0_auto] rounded-3xl border-[none] shadow-[4px_4px_20px_#891f37] backdrop-blur-[10px] backdrop-brightness-[100%] [-webkit-backdrop-filter:blur(10px)_brightness(100%)] before:content-[''] before:absolute before:inset-0 before:p-px before:rounded-3xl before:[background:linear-gradient(180deg,rgba(255,140,209,1)_0%,rgba(218,75,185,1)_100%)] before:[-webkit-mask:linear-gradient(#fff_0_0)_content-box,linear-gradient(#fff_0_0)] before:[-webkit-mask-composite:xor] before:[mask-composite:exclude] before:z-[1] before:pointer-events-none">
-              <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch">
+            <div className="bg-[#eb0ce44c] inline-flex flex-col items-center gap-4 p-4 relative min-w-0 flex-1 max-w-[420px] rounded-3xl border border-[rgba(218,75,185,0.5)] shadow-[4px_4px_20px_#891f37] backdrop-blur-[10px]">
+              <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch z-10">
                 <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
                   <div className="relative flex items-center justify-center self-stretch mt-[-1.00px] bg-[linear-gradient(180deg,rgba(255,246,202,1)_0%,rgba(255,237,154,1)_65%,rgba(251,210,136,1)_100%)] [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Poppins',Helvetica] font-black text-transparent text-2xl tracking-[1.20px] leading-[26px]">
                     Rinfie Priority
@@ -930,9 +932,9 @@ export default function FeaturesAndPlansSection() {
                 </button>
 
                 <img
-                  className="w-[400px] h-px relative object-cover"
+                  className="w-full max-w-[400px] h-px relative object-cover"
                   alt="Line"
-                  src="https://c.animaapp.com/wDnFaDjy/img/line-1-2.svg"
+                  src="/landing/line-1-2.svg"
                 />
 
                 <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch">
@@ -944,7 +946,7 @@ export default function FeaturesAndPlansSection() {
                       <img
                         className="relative w-9 h-9 aspect-[1] object-cover"
                         alt="Image"
-                        src="https://c.animaapp.com/wDnFaDjy/img/image-1268363834-13@2x.png"
+                        src="/landing/image-1268363834-13@2x.png"
                       />
 
                       <p className="relative flex items-center justify-center flex-1 mt-[-1.00px] [font-family:'Poppins',Helvetica] font-normal text-transparent text-base tracking-[0] leading-[26px]">
@@ -967,9 +969,9 @@ export default function FeaturesAndPlansSection() {
                 </div>
 
                 <img
-                  className="w-[400px] h-px relative object-cover"
+                  className="w-full max-w-[400px] h-px relative object-cover"
                   alt="Line"
-                  src="https://c.animaapp.com/wDnFaDjy/img/line-1-2.svg"
+                  src="/landing/line-1-2.svg"
                 />
               </div>
 
@@ -987,7 +989,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="w-px h-[31px] relative object-cover"
                       alt="Line"
-                      src="https://c.animaapp.com/wDnFaDjy/img/line-3-3.svg"
+                      src="/landing/line-3-3.svg"
                     />
 
                     <div className="bg-[linear-gradient(180deg,rgba(255,246,202,1)_0%,rgba(255,237,154,1)_65%,rgba(251,210,136,1)_100%)] relative flex items-center justify-center w-fit [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Inter',Helvetica] font-bold text-transparent text-2xl tracking-[0] leading-[normal]">
@@ -1005,7 +1007,7 @@ export default function FeaturesAndPlansSection() {
                       <img
                         className="relative w-4 h-4 aspect-[1]"
                         alt="Badget solid"
-                        src="https://c.animaapp.com/wDnFaDjy/img/badget-solid-1.svg"
+                        src="/landing/badget-solid-1.svg"
                       />
 
                       <div className="relative flex items-center justify-center w-fit mt-[-1.00px] font-small-semibold font-[number:var(--small-semibold-font-weight)] text-[#000000] text-[length:var(--small-semibold-font-size)] text-center tracking-[var(--small-semibold-letter-spacing)] leading-[var(--small-semibold-line-height)] whitespace-nowrap [font-style:var(--small-semibold-font-style)]">
@@ -1022,7 +1024,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="w-px h-[31px] relative object-cover"
                       alt="Line"
-                      src="https://c.animaapp.com/wDnFaDjy/img/line-3-3.svg"
+                      src="/landing/line-3-3.svg"
                     />
 
                     <div className="bg-[linear-gradient(180deg,rgba(255,246,202,1)_0%,rgba(255,237,154,1)_65%,rgba(251,210,136,1)_100%)] relative flex items-center justify-center w-fit [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Inter',Helvetica] font-bold text-transparent text-2xl tracking-[0] leading-[normal]">
@@ -1040,8 +1042,8 @@ export default function FeaturesAndPlansSection() {
               </div>
             </div>
 
-            <div className="self-stretch bg-[#ffffff66] inline-flex flex-col items-center gap-4 p-4 relative flex-[0_0_auto] rounded-3xl border-[none] shadow-[4px_4px_20px_#891f37] backdrop-blur-[10px] backdrop-brightness-[100%] [-webkit-backdrop-filter:blur(10px)_brightness(100%)] before:content-[''] before:absolute before:inset-0 before:p-px before:rounded-3xl before:[background:linear-gradient(180deg,rgba(181,181,181,1)_0%,rgba(199,199,199,1)_100%)] before:[-webkit-mask:linear-gradient(#fff_0_0)_content-box,linear-gradient(#fff_0_0)] before:[-webkit-mask-composite:xor] before:[mask-composite:exclude] before:z-[1] before:pointer-events-none">
-              <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
+            <div className="self-stretch bg-[#ffffff66] inline-flex flex-col items-center gap-4 p-4 relative min-w-0 flex-1 max-w-[420px] rounded-3xl border border-[rgba(199,199,199,0.6)] shadow-[4px_4px_20px_#891f37] backdrop-blur-[10px]">
+              <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto] z-10">
                 <div className="relative flex items-center justify-center self-stretch mt-[-1.00px] bg-[linear-gradient(180deg,rgba(121,224,255,1)_0%,rgba(187,206,220,1)_100%)] [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Poppins',Helvetica] font-black text-transparent text-2xl tracking-[1.20px] leading-[26px]">
                   Unlimited Lifetime
                 </div>
@@ -1077,9 +1079,9 @@ export default function FeaturesAndPlansSection() {
               </button>
 
               <img
-                className="w-[400px] h-px relative object-cover"
+                className="w-full max-w-[400px] h-px relative object-cover"
                 alt="Line"
-                src="https://c.animaapp.com/wDnFaDjy/img/line-1-2.svg"
+                src="/landing/line-1-2.svg"
               />
 
               <div className="flex-col items-start gap-3 w-full flex-[0_0_auto] flex relative self-stretch">
@@ -1091,7 +1093,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className="relative w-9 h-9 aspect-[1] object-cover"
                       alt="Image"
-                      src="https://c.animaapp.com/wDnFaDjy/img/image-1268363834-13@2x.png"
+                      src="/landing/image-1268363834-13@2x.png"
                     />
 
                     <p className="relative flex items-center justify-center flex-1 mt-[-1.00px] [font-family:'Poppins',Helvetica] font-normal text-transparent text-base tracking-[0] leading-[26px]">
@@ -1127,13 +1129,13 @@ export default function FeaturesAndPlansSection() {
             <img
               className="absolute top-[167px] left-[151px] w-[1263px] h-[452px]"
               alt="Vector"
-              src="https://c.animaapp.com/wDnFaDjy/img/vector-5-1.svg"
+              src="/landing/vector-5-1.svg"
             />
 
             <img
               className="absolute top-[145px] left-[154px] w-[1276px] h-[479px]"
               alt="Vector"
-              src="https://c.animaapp.com/wDnFaDjy/img/vector-6.svg"
+              src="/landing/vector-6.svg"
             />
 
             {journeySteps.map((step, index) => (
@@ -1171,7 +1173,7 @@ export default function FeaturesAndPlansSection() {
                 <img
                   className={`${index === 0 || index === 2 || index === 3 ? "-top-1 left-px w-[88px] h-[98px]" : "top-px left-1.5 w-[74px] h-[84px]"} absolute aspect-[1]`}
                   alt="Polygon"
-                  src={`https://c.animaapp.com/wDnFaDjy/img/polygon-2-${index + 3}.svg`}
+                  src={`/landing/polygon-2-${index + 3}.svg`}
                 />
 
                 <img
@@ -1186,26 +1188,26 @@ export default function FeaturesAndPlansSection() {
           <img
             className="absolute top-0 left-0 w-[1000px] h-[800px]"
             alt="Group"
-            src="https://c.animaapp.com/wDnFaDjy/img/group-1307-2.png"
+            src="/landing/group-1307-2.png"
           />
 
           <img
             className="absolute top-[317px] left-[1004px] w-[916px] h-[483px]"
             alt="Group"
-            src="https://c.animaapp.com/wDnFaDjy/img/group-1310.png"
+            src="/landing/group-1310.png"
           />
 
           <img
             className="absolute top-16 left-[152px] w-[498px] h-[394px]"
             alt="Mask group"
-            src="https://c.animaapp.com/wDnFaDjy/img/mask-group-4@2x.png"
+            src="/landing/mask-group-4@2x.png"
           />
         </div>
       </div>
 
       <div className="flex flex-col w-[1920px] items-center justify-center gap-10 px-60 py-20 relative flex-[0_0_auto]">
         <div className="flex h-[468px] items-center gap-6 relative self-stretch w-full">
-          <div className="relative self-stretch w-[708px] rounded-3xl bg-[url(https://c.animaapp.com/wDnFaDjy/img/rectangle-23796.png)] bg-[100%_100%]" />
+          <div className="relative self-stretch w-[708px] rounded-3xl bg-[url(/landing/rectangle-23796.png)] bg-[100%_100%]" />
 
           <div className="flex flex-col items-start justify-between relative flex-1 self-stretch grow">
             <div className="flex flex-col items-center gap-3 relative self-stretch w-full flex-[0_0_auto]">
@@ -1238,7 +1240,7 @@ export default function FeaturesAndPlansSection() {
                     <img
                       className={`${index > 1 ? "ml-[-2414.33px] mt-[-6027.71px]" : ""} ${index === 3 ? "ml-[-2950.33px]" : ""} ${index === 4 ? "ml-[-3486.33px]" : ""} relative w-6 h-6 aspect-[1]`}
                       alt="Quote left svgrepo"
-                      src="https://c.animaapp.com/wDnFaDjy/img/quote-left-svgrepo-com-1-1.svg"
+                      src="/landing/quote-left-svgrepo-com-1-1.svg"
                     />
 
                     <p className="relative self-stretch font-body-large font-[number:var(--body-large-font-weight)] text-[#3e3d3f] text-[length:var(--body-large-font-size)] tracking-[var(--body-large-letter-spacing)] leading-[var(--body-large-line-height)] [font-style:var(--body-large-font-style)]">
@@ -1260,7 +1262,7 @@ export default function FeaturesAndPlansSection() {
                 <img
                   className="w-6 h-6 ml-[-6.00px] mr-[-6.00px] relative aspect-[1]"
                   alt="Icon left"
-                  src="https://c.animaapp.com/wDnFaDjy/img/--icon-left.svg"
+                  src="/landing/icon-left.svg"
                 />
               </div>
 
@@ -1268,7 +1270,7 @@ export default function FeaturesAndPlansSection() {
                 <img
                   className="w-6 h-6 ml-[-6.00px] mr-[-6.00px] relative aspect-[1]"
                   alt="Icon left"
-                  src="https://c.animaapp.com/wDnFaDjy/img/--icon-left-1.svg"
+                  src="/landing/icon-left-1.svg"
                 />
               </div>
             </div>
@@ -1325,7 +1327,7 @@ export default function FeaturesAndPlansSection() {
         <img
           className="absolute top-[95px] left-0 w-[950px] h-[705px] aspect-[1.44]"
           alt="Mask group"
-          src="https://c.animaapp.com/wDnFaDjy/img/mask-group-5.png"
+          src="/landing/mask-group-5.png"
         />
 
         <div className="flex items-center justify-end gap-14 pl-0 pr-[100px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -1333,7 +1335,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="h-full -top-5 -left-5 object-cover absolute w-full"
               alt="Bg"
-              src="https://c.animaapp.com/wDnFaDjy/img/bg-1.svg"
+              src="/landing/bg-1.svg"
             />
 
             <div className="relative flex items-center justify-center self-stretch mt-[-1.00px] [font-family:'Poppins',Helvetica] font-bold text-[#000000] text-4xl tracking-[1.08px] leading-[46px]">
@@ -1349,7 +1351,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="relative w-64 h-64 aspect-[1]"
               alt="Qr code"
-              src="https://c.animaapp.com/wDnFaDjy/img/qr-code.svg"
+              src="/landing/qr-code.svg"
             />
           </div>
 
@@ -1357,7 +1359,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="h-full -top-5 -left-5 object-cover absolute w-full"
               alt="Bg"
-              src="https://c.animaapp.com/wDnFaDjy/img/bg-2.svg"
+              src="/landing/bg-2.svg"
             />
 
             <div className="relative flex items-center justify-center self-stretch mt-[-1.00px] [font-family:'Poppins',Helvetica] font-bold text-[#000000] text-4xl tracking-[1.08px] leading-[46px]">
@@ -1373,7 +1375,7 @@ export default function FeaturesAndPlansSection() {
             <img
               className="relative w-64 h-64 aspect-[1]"
               alt="Qr code"
-              src="https://c.animaapp.com/wDnFaDjy/img/qr-code-1.svg"
+              src="/landing/qr-code-1.svg"
             />
           </div>
         </div>

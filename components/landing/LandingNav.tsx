@@ -27,7 +27,7 @@ export default function LandingNav() {
         <img
           className="w-10 h-10 aspect-square object-contain"
           alt="Rinfie"
-          src="https://c.animaapp.com/wDnFaDjy/img/logo.svg"
+          src="/landing/logo.svg"
         />
         <span>{t("navBrand")}</span>
       </Link>
